@@ -1,0 +1,4 @@
+GT4500,1,0,2,0  #elso siker, masodik sikeres, elso ures, ezert megint masodik tuzel
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

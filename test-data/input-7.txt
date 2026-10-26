@@ -1,0 +1,2 @@
+GT4500,10,1,10,0 # all tuzeles elso fail, de masodik success
+TORPEDO,ALL

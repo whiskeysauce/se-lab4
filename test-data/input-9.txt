@@ -1,0 +1,2 @@
+GT4500,0,0,0,0 # all tuzeles elso fail, masodik fail csak uresseg miatt
+TORPEDO,ALL

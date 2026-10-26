@@ -1,0 +1,3 @@
+GT4500,2,0,0,0  #elso siker, masodik ures, ezert ujra elsot probal
+TORPEDO,SINGLE
+TORPEDO,SINGLE
