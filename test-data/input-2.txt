@@ -1,0 +1,2 @@
+GT4500,0,0,10,0 # 1 tuzeles, elso ures, masodik nem
+TORPEDO,SINGLE

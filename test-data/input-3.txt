@@ -1,0 +1,2 @@
+GT4500,10,1,10,0 # elso probal tuzelni de failel, masodik tudna, de nem probal
+TORPEDO,SINGLE
